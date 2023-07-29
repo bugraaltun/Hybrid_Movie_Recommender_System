@@ -1,4 +1,4 @@
-# Hybrid_Recommender_System
+# Hybrid_Movie_Recommender_System
 ## Business Problem
 Making an estimate for the user whose ID is given, using the item-based and user-based recommender methods.
 ## Dataset Story
